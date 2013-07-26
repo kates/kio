@@ -1,0 +1,24 @@
+{
+  "name": "kio",
+  "version": "0.0.1",
+  "description": "Dead simple job queue.",
+  "author": {
+    "name": "kates",
+    "email": "katesgasis@gmail.com"
+  },
+  "main": "lib/kio",
+  "dependencies": {
+    "async": "*",
+    "redis": "*",
+    "hiredis": "*"
+  },
+  "keywords": [
+    "queue",
+    "job",
+    "kio",
+    "message",
+    "delayed"
+  ],
+  "repository": "",
+  "license": "BSD"
+}
