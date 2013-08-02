@@ -17,7 +17,8 @@
     "job",
     "kio",
     "message",
-    "delayed"
+    "delayed",
+    "redis"
   ],
   "repository": "",
   "license": "BSD"
