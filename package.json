@@ -1,7 +1,7 @@
 {
   "name": "kio",
   "version": "0.0.1",
-  "description": "Dead simple job queue.",
+  "description": "Dead-simple job queue.",
   "author": {
     "name": "kates",
     "email": "katesgasis@gmail.com"
