@@ -20,6 +20,6 @@
     "delayed",
     "redis"
   ],
-  "repository": "",
+  "repository": "http://github.com/kates/kio",
   "license": "BSD"
 }
